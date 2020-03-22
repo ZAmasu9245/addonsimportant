@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "sterling/slown_mediapad_main"
+	"$bumpmap" "sterling/slown_mediapad_norm"
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[.02 .02 .02]"	
+	"$envmapfresnel" "1"
+
+	"$phong" "1"
+	"$phongboost" "2.5"
+	"$phongexponent" "5"
+	"$phongfresnelranges" "[0.2 0.2 0.2]"	
+
+	"$rimlight" "1"
+	"$rimlightexponent" "10"
+	"$rimlightboost" "1"	
+}

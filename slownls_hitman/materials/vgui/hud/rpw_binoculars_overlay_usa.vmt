@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"vgui\hud\binocs_overlay_american"
+	"$translucent" 	"1"
+}
